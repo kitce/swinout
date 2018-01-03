@@ -13,7 +13,7 @@ Useful for live streaming software, e.g. OBS, to display the "Now Playing" infor
 ## Setup
 1. Download the script from the repo
 2. Open the script with Script Editor
-3. Modify the `directory` in your own use case
+3. Modify the `directory` for your own use case
 4. Export as application "Swinout.app"
 5. Run Swinsian
 6. Run Swinout
