@@ -24,5 +24,8 @@ Useful for live streaming software, e.g. OBS, to display the "Now Playing" infor
 Note : OBS does not support choosing files without extensions, you will need to choose a "dummy" text file, and then edit the file path in your scene file.
 1. In OBS, File > Show Settings Folder
 2. Go to basic/scenes
-3. Open your scene file (*.json) with any text editor
-4. Replace the "dummy" text file paths with the files provided by Swinout
+3. Quit OBS
+4. Open your scene file (*.json) with any text editor
+5. Replace the "dummy" text file paths with the paths of the files provided by Swinout
+6. Run OBS
+7. Now the "dummy" texts become the current track information
