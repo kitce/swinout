@@ -21,8 +21,7 @@ Useful for live streaming software, e.g. OBS, to display the "Now Playing" infor
 8. The current track information is now available in the files (track, artist, album, artwork)
 
 ## Use with OBS
-P.S. OBS does not support choosing files without extensions, you will need to choose a "dummy" text file, and then edit the file path in your scene file.
-### Steps
+Note : OBS does not support choosing files without extensions, you will need to choose a "dummy" text file, and then edit the file path in your scene file.
 1. In OBS, File > Show Settings Folder
 2. Go to basic/scenes
 3. Open your scene file (*.json) with any text editor
